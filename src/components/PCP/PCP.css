@@ -1,0 +1,16 @@
+/* Pcp.css */
+.axis text {
+  font-size: 12px;
+  font-family: sans-serif;
+}
+
+.axis line,
+.axis path {
+  stroke: #000;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1;
+}
